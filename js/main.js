@@ -185,8 +185,8 @@ $(document).ready(function () {
     //   })
     //   .catch((error) => {
     //     console.log(error);
-    //   });
     //
+    //   });
     $.post(
       "https://submit-form.com/g0yffA7iS",
       {
